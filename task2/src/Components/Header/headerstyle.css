@@ -1,0 +1,35 @@
+.container {
+    max-width: 1032px;
+    margin: 0  auto;
+    padding: 0 22px;
+}
+.header {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    text-transform: uppercase;
+    color: #6d6e70;
+    font-size: 31px;
+    line-height: 43px;
+    text-decoration: none;
+    padding-left: 43px;
+    background-image: url(./logo.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.main-nav ul {
+    list-style: none;
+}
+.main-nav li{
+    display: inline-block;
+    margin-left: 30px;
+}
+.main-nav a {
+    font-size: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #666;
+}

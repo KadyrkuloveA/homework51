@@ -1,0 +1,29 @@
+.container {
+    max-width: 1032px;
+    margin: 0  auto;
+    padding: 0 22px;
+}
+.our-work {
+    text-align: center;
+    margin-top: 50px;
+}
+.our-work h2 {
+    padding-top: 100px;
+    font-size: 31px;
+    line-height: 50px;
+    text-transform: uppercase;
+    font-weight: normal;
+    background-image: url(ic-grow.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.our-work p {
+    font-size: 20px;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+.our-work span {
+    display: inline-block;
+    padding-top: 20px;
+    font-size: 17px;
+}

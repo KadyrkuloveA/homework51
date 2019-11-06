@@ -1,0 +1,7 @@
+.App {
+  margin: 50px auto;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

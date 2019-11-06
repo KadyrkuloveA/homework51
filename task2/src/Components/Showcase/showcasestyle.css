@@ -1,0 +1,30 @@
+.main-showcase {
+    position: relative;
+}
+.main-showcase img {
+    width: 100%;
+    min-height: 570px;
+}
+.headline {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+.headline h1 {
+    font-size: 49px;
+    font-weight: normal;
+}
+.btn {
+    margin-top: 3%;
+    color: #fff;
+    font-size: 20px;
+    background-color: #99c50a;
+    padding: 25px 40px;
+    outline: 0;
+    border: 0;
+    border-radius: 7px;
+}
